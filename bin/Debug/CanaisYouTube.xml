@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Canais>
+  <canal>	
+    <Nome>TV 247</Nome>
+	<Nivel>0</Nivel>
+	<UltVisualizacao>12/12/2018</UltVisualizacao>
+	<Endereco>https://www.youtube.com/channel/UCRuy5PigeeBuecKnwqhM4yg/videos</Endereco>
+	<apo>8</apo>
+	<repro>2</repro>
+	<diaProbs></diaProbs>
+	<g>Política</g>
+	<exec>1</exec>
+  </canal>
+  <canal>	
+    <Nome>Blog da Cidadania</Nome>
+	<Nivel>0</Nivel>
+	<UltVisualizacao>11/12/2018</UltVisualizacao>
+	<Endereco>https://www.youtube.com/channel/UCJU__wIT-5N-2fcSvZytRRg/videos</Endereco>
+	<apo>1</apo>
+	<repro>2</repro>
+	<diaProbs>18/12/12</diaProbs>
+	<g>Política</g>
+	<exec>1</exec>	
+  </canal>
+</Canais>
